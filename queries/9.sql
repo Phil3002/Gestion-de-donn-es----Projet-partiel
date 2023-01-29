@@ -1,0 +1,1 @@
+select FIRST_NAME, LAST_NAME, HOTEL_NAME from employees e, hotel h where h.HOTEL_ID = e.HOTEL_ID and HOTEL_NAME = "Le Castillo";

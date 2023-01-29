@@ -1,0 +1,1 @@
+select CITY, HOTEL_NAME from hotel h order by CITY asc;

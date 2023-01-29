@@ -1,0 +1,1 @@
+select FIRST_NAME, LAST_NAME from client c where HOTEL_NAME like "L'Azur";

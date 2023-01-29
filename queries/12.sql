@@ -1,0 +1,1 @@
+select AVG(SALARY) from employees e, hotel h where h.HOTEL_ID = e.HOTEL_ID and HOTEL_NAME = "Le Nantais" or HOTEL_NAME = "L'Azur";

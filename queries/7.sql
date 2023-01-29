@@ -1,0 +1,1 @@
+select FIRST_NAME, LAST_NAME, EMAIL from employees e where EMAIL like "%hotmail%";

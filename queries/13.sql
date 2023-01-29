@@ -1,0 +1,1 @@
+select round(avg(SALARY)*12) as MOYENNE_SALAIRES_ANNUEL from employees e ;

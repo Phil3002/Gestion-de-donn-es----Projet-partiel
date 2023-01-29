@@ -1,0 +1,1 @@
+select STOCK_QUANTITY, PRODUCT_NAME from stock s order by STOCK_QUANTITY desc;

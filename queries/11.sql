@@ -1,0 +1,1 @@
+select AVG(SALARY) from employees e;

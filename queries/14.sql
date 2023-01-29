@@ -1,0 +1,1 @@
+select HOTEL_NAME, FREE_BEDROOM, USED_BEDROOM from hotel h where FREE_BEDROOM < USED_BEDROOM order by FREE_BEDROOM asc;

@@ -1,0 +1,1 @@
+select HOTEL_NAME from hotel h where FREE_BEDROOM > 100;
